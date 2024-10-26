@@ -1,0 +1,40 @@
+/* style.css */
+
+/* Custom colors and fonts */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Header styling */
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 2rem;
+}
+
+/* Section spacing */
+section {
+    margin-bottom: 2rem;
+}
+
+/* Portfolio card styling */
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 1rem 0;
+}
+
+footer a {
+    color: #00d4ff;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
